@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\bin\Debug\net10.0\Atividade 3.exe
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\bin\Debug\net10.0\Atividade 3.deps.json
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\bin\Debug\net10.0\Atividade 3.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\bin\Debug\net10.0\Atividade 3.dll
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\bin\Debug\net10.0\Atividade 3.pdb
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\obj\Debug\net10.0\Atividade 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\obj\Debug\net10.0\Atividade 3.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\obj\Debug\net10.0\Atividade 3.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\obj\Debug\net10.0\Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\obj\Debug\net10.0\Atividade 3.dll
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\obj\Debug\net10.0\refint\Atividade 3.dll
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\obj\Debug\net10.0\Atividade 3.pdb
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\obj\Debug\net10.0\Atividade 3.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Atividade 3\Atividade 3\obj\Debug\net10.0\ref\Atividade 3.dll
